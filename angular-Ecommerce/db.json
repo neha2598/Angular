@@ -1,0 +1,35 @@
+{
+  "seller": [
+    {
+      "name": "Anil Sidhu",
+      "email": "anil@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Sam Sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "neha ",
+      "password": "neha",
+      "email": "neha@xyz.com",
+      "id": 3
+    },
+    {
+      "name": "Sam Sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "nisha ",
+      "password": "nish",
+      "email": "nisha@asdf.com",
+      "id": 5
+    }
+   
+  ]
+}

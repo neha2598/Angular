@@ -25,4 +25,9 @@ export class SellerService {
       });
 
   }
+
+  userLogin()
+  {
+    
+  }
 }
